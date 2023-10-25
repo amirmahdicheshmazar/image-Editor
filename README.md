@@ -1,2 +1,1 @@
-# image-Editor
-this is app that you can edit your picture.
+Demo of imageEditor : https://image-editor-amirmahdi.netlify.app/
